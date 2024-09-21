@@ -44,6 +44,9 @@ public class FirstDemo {
 		System.out.println("QUITTING THE DRIVER AND BROWSER INSTANCE");
 //		driver.close();
 		driver.quit();
+		System.out.println("All the changes are done for Git and now you can proceed !");
 	}
+	
+	
 	
 }
