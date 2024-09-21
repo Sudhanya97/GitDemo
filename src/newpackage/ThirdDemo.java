@@ -46,6 +46,7 @@ public class ThirdDemo {
 		System.out.println("QUITTING THE DRIVER AND BROWSER INSTANCE");
 //		driver.close();
 		driver.quit();
+		System.out.println("Created a new branch to push code into that");
 	}
 	
 }
