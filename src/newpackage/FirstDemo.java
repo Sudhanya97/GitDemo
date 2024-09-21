@@ -45,6 +45,7 @@ public class FirstDemo {
 //		driver.close();
 		driver.quit();
 		System.out.println("All the changes are done for Git and now you can proceed !");
+		System.out.println("Just a demo expereiment to check git");
 	}
 	
 	

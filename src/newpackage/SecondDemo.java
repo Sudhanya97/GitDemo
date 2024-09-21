@@ -35,6 +35,7 @@ public class SecondDemo {
 		System.out.println("QUITTING THE DRIVER AND BROWSER INSTANCE");
 //		driver.close();
 		driver.quit();
+		System.out.println("Just checking if git is properly working or not!");
 	}
 	
 }
