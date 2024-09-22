@@ -2,6 +2,7 @@ Amlan
 Kunal
 Rushi
 Sandhya
+<<<<<<< HEAD
 Pihu
 Kuntal
 Maman
@@ -11,3 +12,5 @@ Shitala
 Piku
 Suman
 Munmun
+=======
+>>>>>>> master
